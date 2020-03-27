@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../assignment-computer-vision/.idea/assignment-computer-vision.iml" filepath="$PROJECT_DIR$/../assignment-computer-vision/.idea/assignment-computer-vision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../capstone_user_identification/.idea/capstone_user_identification.iml" filepath="$PROJECT_DIR$/../capstone_user_identification/.idea/capstone_user_identification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../linux/.idea/linux.iml" filepath="$PROJECT_DIR$/../linux/.idea/linux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../netology-dl/.idea/netology-dl.iml" filepath="$PROJECT_DIR$/../netology-dl/.idea/netology-dl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../netology-ds/.idea/netology-ds.iml" filepath="$PROJECT_DIR$/../netology-ds/.idea/netology-ds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/netology-ds-diploma.iml" filepath="$PROJECT_DIR$/.idea/netology-ds-diploma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ods/.idea/ods.iml" filepath="$PROJECT_DIR$/../ods/.idea/ods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python/.idea/python.iml" filepath="$PROJECT_DIR$/../python/.idea/python.iml" />
+    </modules>
+  </component>
+</project>
