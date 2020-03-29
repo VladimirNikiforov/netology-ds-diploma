@@ -3,7 +3,7 @@ from flask import Flask, jsonify, request
 import pickle
 
 # load model
-model = pickle.load(open('model.pkl','rb'))
+model = pickle.load(open('/home/truename/Documents/netology-ds-diploma/model.pkl','rb'))
 
 # app
 app = Flask(__name__)
